@@ -1,0 +1,9 @@
+{
+  "name": "Copy of agri vision ai",
+  "description": "An advanced AI-powered farming assistant  for real-time soil and plant analysis, localized weather forecasting, and eco-friendly farming advice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
